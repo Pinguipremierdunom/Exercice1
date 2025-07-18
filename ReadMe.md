@@ -14,4 +14,4 @@ Initialiser un git
 ### Image
 
 
-![chinoir roux stylé](az8xQOB_700b_v1.jpg)
+![chinoir roux stylé](img/risitas.webp)
